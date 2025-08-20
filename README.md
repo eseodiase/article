@@ -38,10 +38,11 @@ Users should be able to:
 - React
 - Accessibility
 - Block Element Modifier
-- SASS variable and nesting
+- SASS Variable and Nesting
 - Flexbox
-- Google font
-- Mobile-first workflow
+- Google Font
+- TrueType Font
+- Mobile-first Workflow
 - Git client
 
 ### Useful resources
