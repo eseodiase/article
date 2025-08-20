@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Animated-preview
 
-![Animated-preview](./animated-preview.gif)
+![Animated-preview](./public/animated-preview.gif)
 
 ### Links
 
