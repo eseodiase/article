@@ -6,7 +6,7 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Animated-preview](#animated-preview)
+  - [Preview](#preview)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -22,14 +22,14 @@ Users should be able to:
 - View the optimal layout for the component depending on their device's screen size
 - See the social media share links when they click the share icon
 
-### Animated-preview
+### Preview
 
-![Animated-preview](./public/animated-preview.gif)
+![](./screenshot.jpg)
 
 ### Links
 
-- [Solution URL:](https://github.com/eseodiase/article)
-- [Live Site URL:](https://eseodiase.github.io/article/)
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
@@ -38,11 +38,11 @@ Users should be able to:
 - React
 - Accessibility
 - Block Element Modifier
-- SASS Variable and Nesting
+- SASS variable and nesting
 - Flexbox
-- Google Font
-- TrueType Font
-- Mobile-first Workflow
+- Google font
+- TrueType font
+- Mobile-first workflow
 - Git client
 
 ### Useful resources

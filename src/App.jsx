@@ -1,4 +1,4 @@
-import './App.css';
+import './App.scss';
 import Header from './component/Header.jsx';
 import Main from './component/Main.jsx';
 import Footer from './component/Footer.jsx';
